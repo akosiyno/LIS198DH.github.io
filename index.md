@@ -9,6 +9,7 @@
 2. eelingatong
 3. username
 4. beabcruz
+1. krganzon
 
 
 
@@ -23,10 +24,10 @@
 
 
 1. sampepito
+14. taban
 
 
-
-
+1. akosiyno
 
 
 
@@ -38,14 +39,12 @@
 
 
 
-1. josemonfredsy
 
 
 
 
-1. taban
 
-1. tp-angeles
+
 ### August 16 Activity
 1. Edit this document (https://guides.github.com/activities/forking/) by adding your GitHub username under the members section using the proper markdowns (https://guides.github.com/features/mastering-markdown/)
 1. Articulate the key points you got from this week's assigned readings and upload it to https://github.com/LIS198DH/key_points.git
